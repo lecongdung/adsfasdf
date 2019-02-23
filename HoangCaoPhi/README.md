@@ -1,7 +1,6 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 </head>
 <body>
 <h3>Cập nhật thông tin sinh viên</h3>
